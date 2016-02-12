@@ -40,20 +40,20 @@ public class warGame{
 	
 	//Set's values for all of the cards.
 	public static void setValues(){
-		int oneCard = 0;
-		int twoCard = 1;
-		int threeCard = 2;
-		int fourCard = 3;
-		int fiveCard = 4;
-		int sixCard = 5;
-		int sevenCard = 6;
-		int eightCard = 7;
-		int nineCard = 8;
-		int tenCard = 9;
-		int jack = 10;
-		int queen = 11;
-		int king = 12;
-		int ace = 13;
+		int oneCard = 1;
+		int twoCard = 2;
+		int threeCard = 3;
+		int fourCard = 4;
+		int fiveCard = 5;
+		int sixCard = 6;
+		int sevenCard = 7;
+		int eightCard = 8;
+		int nineCard = 9;
+		int tenCard = 10;
+		int jack = 11;
+		int queen = 12;
+		int king = 13;
+		int ace = 14;
 		
 		
 	}
