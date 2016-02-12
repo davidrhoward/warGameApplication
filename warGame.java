@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class warGame{
 
 	private static int userCard;
-	private static int randomCard; 
+	private static int cpuCard; 
 	private static int userScore;
 	private static int opponentScore;
 	private static String endGame;
@@ -65,7 +65,7 @@ public class warGame{
 		
 		//Random cards for both user and opponent.
 		userCard = randomGen.nextInt(15);
-		randomCard = randomGen.nextInt(15);
+		cpuCard = randomGen.nextInt(15);
 		
 	}
 	
